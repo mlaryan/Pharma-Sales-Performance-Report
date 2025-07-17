@@ -33,8 +33,7 @@ The primary objective of this project was to develop an interactive Power BI rep
 
 ## 🛠️ Tools & Technologies Used
 
-- **Power BI**: For data modeling, visualization, and dashboard creation  
-- *(Optionally: SQL, Excel, Python – if used in ETL or preprocessing)*
+- **Power BI**: For data modeling, visualization, and reports/dashboards creation  
 
 ---
 
@@ -126,4 +125,3 @@ The **Pharma Sales Performance Dashboard** is a high-impact solution that transf
 ## 📎 License / Contributions / Feedback
 
 *Feel free to fork, suggest improvements, or contribute!*
-
